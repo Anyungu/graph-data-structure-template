@@ -14,8 +14,9 @@ Docker is the recommended way to run this project
 In the root of the project run: 
 `docker-compose up`
 
-## Running from terminal
+## Running from terminal (Node 16)
 In the root of the project run:
+`npm i --save`
 `npm run start:dev`
 
 ## Rnning tests
